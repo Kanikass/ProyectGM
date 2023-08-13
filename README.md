@@ -24,9 +24,11 @@ SnakeOA.py
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Snake with motion sensor using Mediapipe and Pygame
+
 This repository have the game snake but you can move the snake with the hands that are captured using Mediapipe, the game was created with Pygame. The instructions to launch it are below
 
 Instructions
+
 In a python environment type the following instructions to install the libraries
 
 pip install math
